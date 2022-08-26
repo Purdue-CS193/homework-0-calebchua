@@ -1,4 +1,4 @@
-## Caleb Chua's First CS193 Homework
+# Caleb Chua's First CS193 Homework
 - CS class
 - learn to use tools like Github
 - don't have to worry about grades, can just learn
