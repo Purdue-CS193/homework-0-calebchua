@@ -1,4 +1,9 @@
-## Caleb Chua
+## Caleb Chua's First CS193 Homework
+- CS class
+- learn to use tools like Github
+- don't have to worry about grades, can just learn
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
